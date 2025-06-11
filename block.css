@@ -1,3 +1,8 @@
 div{
     background-color: brown;
+    padding: 10ex;
+    width: 50%;
+}
+img{
+    width: 50%;
 }
